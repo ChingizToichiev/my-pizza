@@ -13,7 +13,9 @@
   border-bottom: none!important;
 }
 .linkNavigation::before {
-  border-bottom: none!important;}
+  border-bottom: none!important;
+
+}
 .slick-slide>div{
   display: flex;
 }

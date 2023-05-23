@@ -35,3 +35,53 @@ export const SliderItemsData = [{
     src:"https://media.istockphoto.com/id/1271158223/vector/cartoon-color-pizzeria-label-badge-sign-set-concept-flat-design-style-vector.jpg?s=612x612&w=0&k=20&c=l65IrNUL0HQ2eByN0YRNRQcGhVj5XXyKWlEcTDj8kQQ=",
 }
 ]
+export const PizzaData =[
+    {
+        img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_584x584.webp',
+        name: 'Пицца Миксик',
+        desc: 'Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус',
+        price: 495
+    },
+    {
+        img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_584x584.webp',
+        name: 'Пицца Миксик',
+        desc: 'Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус',
+        price: 495
+    },
+    {
+        img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_584x584.webp',
+        name: 'Пицца Миксик',
+        desc: 'Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус',
+        price: 495
+    },
+    {
+        img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_584x584.webp',
+        name: 'Пицца Миксик',
+        desc: 'Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус',
+        price: 495
+    },
+    {
+        img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_584x584.webp',
+        name: 'Пицца Миксик',
+        desc: 'Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус',
+        price: 495
+    },
+    {
+        img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_584x584.webp',
+        name: 'Пицца Миксик',
+        desc: 'Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус',
+        price: 495
+    },
+    {
+        img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_584x584.webp',
+        name: 'Пицца Миксик',
+        desc: 'Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус',
+        price: 495
+    },
+    {
+        img: 'https://dodopizza-a.akamaihd.net/static/Img/Products/10b95b8611ec457dbffd9613b8eb165a_584x584.webp',
+        name: 'Пицца Миксик',
+        desc: 'Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус',
+        price: 495
+    },
+]
